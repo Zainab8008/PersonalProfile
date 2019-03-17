@@ -50,7 +50,7 @@
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-      <h2>   <a href="https://zainab8008.github.io/IdealJob/" style="color:	#A9A9A9" >Personal Profile</a> </h2>
+      <h2>   <a href="https://zainab8008.github.io/PersonalProfile/" style="color:	#A9A9A9" >Personal Profile</a> </h2>
 </header>
         
         <section>
