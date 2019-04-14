@@ -61,7 +61,7 @@
      <h3> Creativity Test Results <h3/>
  <br>  <center>  <img src="http://i65.tinypic.com/2cohlyr.png" alt="" height="auto">  <center/> <br> 
           <h3>What do the results of these tests mean for you? <h3/>
-               <p1> These result show me where and how I may think in terms of my personality, thoughts and ways. <p1/>
+               <p1> These result show me where and how I may think in terms of my personality, thoughts and ways. Having a look at them they do actually relate to how I am as a person. They make me take a step back and actually think of the way I have grown to think and act.  <p1/>
                <h3>How do you think these results may influence your behaviour in a team? <h3/>
                     <p1> Thesew results show that I will be able to work well in a team as I can be cretive and I am not so much of an introvert.<p1/>
 <h3>How should you take this into account when forming a team? <h3/>
