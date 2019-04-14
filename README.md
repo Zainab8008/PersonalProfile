@@ -8,9 +8,9 @@
                       }
                 </style>
      <style> 
-        h3 { color: 	#b76e79;
+        p2 { color: 	#b76e79;
         }
-                </style>
+     </style>
      <style> 
         p1 { color: black;
         }
@@ -21,11 +21,11 @@
     <header class="sectionHeading">
       <h1>   <a href="https://zainab8008.github.io/PersonalProfile/" style="color:	#A9A9A9" >Personal Profile</a> </h1>
 </header> 
-<h2> 16 Personality Myers-Briggs test Results <h2/> 
+<p2> 16 Personality Myers-Briggs test Results <p2/> 
     <img src="http://i67.tinypic.com/2qvw1mh.png" alt="" height="auto"> 
- <h2> Learning Style Test Results <h2/> 
+ <p2> Learning Style Test Results <p2/> 
  <img src="http://i64.tinypic.com/s43o07.png" alt="" height="auto"> 
-    <h2> Creativity Test Results <h2/> 
+    <p2> Creativity Test Results <p2/> 
    <img src="http://i65.tinypic.com/2cohlyr.png" alt="" height="auto">   
         <h3>What do the results of these tests mean for you? <h3>
                <p1> These result show me where and how I may think in terms of my personality, thoughts and ways. Having a look at them they do actually relate to how I am as a person. They make me take a step back and actually think of the way I have grown to think and act.  <p1/>
