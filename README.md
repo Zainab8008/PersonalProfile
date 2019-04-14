@@ -16,7 +16,7 @@
         }
                 </style>
      <style> 
-                      h2 { color: 		#A9A9A9;
+                      h2 { color: 		#b76e79;
                       }
                 </style>
      <style> 
@@ -35,26 +35,22 @@
                       p2 { color: 	black;
                       }
                       </style>
-         <style>
-        h3 {
-        text-align:center
-        }
-                </style>
+        
 </head>
                       <body>
 
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-      <h2>   <a href="https://zainab8008.github.io/PersonalProfile/" style="color:	#A9A9A9" >Personal Profile</a> </h2>
+      <h1>   <a href="https://zainab8008.github.io/PersonalProfile/" style="color:	#A9A9A9" >Personal Profile</a> </h1>
 </header>
         
         <section>
-<h3> 16 Personality Myers-Briggs test Results <h3/>
+<h2> 16 Personality Myers-Briggs test Results <h2/>
  <br>  <center>  <img src="http://i67.tinypic.com/2qvw1mh.png" alt="" height="auto">  <center/> <br> 
-<h3> Learning Style Test Results <h3/>
+<h2> Learning Style Test Results <h2/>
  <br>  <center>  <img src="http://i64.tinypic.com/s43o07.png" alt="" height="auto">  <center/> <br> 
-     <h3> Creativity Test Results <h3/>
+     <h2> Creativity Test Results <h2/>
  <br>  <center>  <img src="http://i65.tinypic.com/2cohlyr.png" alt="" height="auto">  <center/> <br> 
           <h3>What do the results of these tests mean for you? <h3>
                <p1> These result show me where and how I may think in terms of my personality, thoughts and ways. Having a look at them they do actually relate to how I am as a person. They make me take a step back and actually think of the way I have grown to think and act.  <p1/>
