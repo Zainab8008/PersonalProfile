@@ -57,7 +57,7 @@
 <h3> 16 Personality Myers-Briggs test Results <h3/>
  <br>  <center>  <img src="http://i67.tinypic.com/2qvw1mh.png" alt="" height="auto">  <center/> <br> 
 <h3> Learning Style Test Results <h3/>
- <br>  <center>  <img src="http://i64.tinypic.com/wiq2ap.png" alt="" height="auto">  <center/> <br> 
+ <br>  <center>  <img src="http://i64.tinypic.com/s43o07.png" alt="" height="auto">  <center/> <br> 
      <h3> Creativity Test Results <h3/>
  <br>  <center>  <img src="http://i65.tinypic.com/2cohlyr.png" alt="" height="auto">  <center/> <br> 
           <h3>What do the results of these tests mean for you? <h3/>
