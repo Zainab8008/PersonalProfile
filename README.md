@@ -44,7 +44,6 @@
     <header class="sectionHeading">
       <h1>   <a href="https://zainab8008.github.io/PersonalProfile/" style="color:	#A9A9A9" >Personal Profile</a> </h1>
 </header>
-        
         <section>
 <h2> 16 Personality Myers-Briggs test Results <h2/>
  <br>  <center>  <img src="http://i67.tinypic.com/2qvw1mh.png" alt="" height="auto">  <center/> <br> 
