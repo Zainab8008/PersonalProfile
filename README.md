@@ -1,14 +1,8 @@
 <html>
-
 <head>
      <style>
         h1 { color: 		#A9A9A9; 
         }
-                </style>
-     <style>
-                      body {
-                      background-color: white;
-                      }
                 </style>
      <style>
         h1 {
@@ -24,18 +18,9 @@
         }
                 </style>
      <style> 
-                      p { color: black;
-                      }
-                </style>
-     <style> 
         p1 { color: black;
         }
-                </style>
-     <style> 
-                      p2 { color: 	black;
-                      }
-                      </style>
-        
+                </style>     
 </head>
                       <body>
 
@@ -56,6 +41,5 @@
                <h3>How do you think these results may influence your behaviour in a team? <h3/>
                     <p1> Thesew results show that I will be able to work well in a team as I can be cretive and I am not so much of an introvert.<p1/>
 <h3>How should you take this into account when forming a team? <h3/>
-     <p1> <p1/>
           <section/>
           <html/>
